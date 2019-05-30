@@ -7,6 +7,14 @@ output:
 author: "Alexandre, Schroeter and Rita, Sefraoui Tahiri"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
+#Instructions: 
+1) Install the package rmdformats by running :
+install.packages("rmdformats")
+2) Because of the size of certain files, we decided to make them available on google drive: 
+You can retrieve the 3 different files with the followers for a subset of profiles of powerlifters here :
+* insta: https://drive.google.com/open?id=1Ce6VrLjzP4VWG9gsKXX9N2k6-zhwf2yk
+* insta2: https://drive.google.com/open?id=1VOIxQXXZ2zZ5xnTIqZA8TUU0lncc3a-F
+* insta3: https://drive.google.com/open?id=1UrguUyX0ezVroB-5nC9b6RdkjOu7Zagr
 
 
 ```{r setup, warning = FALSE, message = FALSE, echo=FALSE }
